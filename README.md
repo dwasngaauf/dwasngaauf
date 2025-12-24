@@ -19,7 +19,7 @@
 
 ---
 
-### 💻✨ About Me
+### 💻✨ Quỳnh Dương
 
 - 💖 **Experience:** Web & Mobile App Development, Computer Science fundamentals  
 - 🌸 **Education:** Information Technology major at  
