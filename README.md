@@ -1,9 +1,54 @@
- Hi there || Konnichiwa || Xin chào 🤟 Skirrt Hiphop neva dieeee 😎😎
+<h1 align="center">
+  💜 Hi there ✨ | Konnichiwa 🌸 | Xin chào 🤟  
+</h1>
 
-- 💻 **Experience:** Web & Mobile App Development, Computer Science fundamentals  
-- 🌱 **Education:** Information Technology major at SOICT, Hanoi University of Science and Technology (Vietnam)  
-- 🌍 **Languages:** English, Vietnamese, Japanese  
-  > If we don’t share a common language, we can always use translation tools 😄  
-- 🎮 **Games:** I play several games, but my most-played one is *The Sims 4*  
-  > If you have a TS4 Discord server, feel free to invite me!  
-- ⚡ **Fun fact:** Big fan of *Haikyuu!!* and *One Piece*
+<p align="center">
+  <i>Skrrrt — Hiphop never dies 😎💿</i>
+</p>
+
+<p align="center">
+  🌸🌸🌸
+</p>
+
+---
+
+### 💻✨ About Me
+
+- 💖 **Experience:** Web & Mobile App Development, Computer Science fundamentals  
+- 🌸 **Education:** Information Technology major at  
+  **SOICT – Hanoi University of Science and Technology (HUST), Vietnam**  
+- 💬 **Languages:** English 🇬🇧 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
+  > If we don’t share a common language, we can always use translation tools ✨  
+- 🎮 **Games:** I play several games, but my most-played one is  
+  **The Sims 4 🏡💫**  
+  > If you have a TS4 Discord server, feel free to invite meee 🥺👉👈  
+- ⚡ **Fun fact:** Big fan of *Haikyuu!!* 🏐 & *One Piece* ☠️🏴‍☠️  
+
+---
+
+### 💜📊 GitHub Stats (blink blink ✨)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+### 🌸✨ Cute Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-%23ff69b4?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AIoT-%23c77dff?style=for-the-badge&logo=brain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web-%23ffb3d9?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile-%23f72585?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+---
+<p align="center">
+  ✨💖 Thanks for visiting my profile 💖✨  
+</p>
