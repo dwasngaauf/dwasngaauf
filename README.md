@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40&animation=twinkling&fontAlignY=35"/>
-</p>
-
 <h1 align="center">
   💜 Hi there ✨ | Konnichiwa 🌸 | Xin chào 🤟  
 </h1>
@@ -13,7 +9,7 @@
 <p align="center">
   🌸🌸🌸
   <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="180"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHZmaTU4ZXNyd3pnc3VmbTZwb2swb2ZzNzY1dGJpbmNwNWdlNGk2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WcEvIajIk332g/giphy.gif" width="180"/>
 </p>
 
 </p>
@@ -34,18 +30,13 @@
 
 ---
 
-### 💜📊 GitHub Stats ✨
+### 💜📊 GitHub Activity ✨
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwasngaauf&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/GitHub-dwasngaauf-%23c77dff?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-active-%23ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Vibes%20Only-%239b5de5?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwasngaauf&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwasngaauf&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
-
 
 ---
 
