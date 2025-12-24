@@ -3,7 +3,10 @@
 </h1>
 
 <p align="center">
-  <i>Skrrrt — Hiphop never dies 😎💿</i>
+  <i>Skrrrt — 
+    Hiphop neva dies 😎💿<br>
+    Ít thì 5 quả trứng 🥚 nhiều thì một tên lửa 🚀
+  </i>
 </p>
 
 <p align="center">
