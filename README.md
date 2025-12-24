@@ -26,20 +26,21 @@
 
 ---
 
-### 💜📊 GitHub Stats (blink blink ✨)
+### 💜📊 GitHub Stats ✨
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dwasngaauf&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwasngaafu&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dwasngaauf&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwasngaauf&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
+
 ---
 
-### 🌸✨ Cute Tech Stack
+### 🌸✨ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-%23ff69b4?style=for-the-badge&logo=arduino&logoColor=white"/>
