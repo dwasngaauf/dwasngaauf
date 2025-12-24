@@ -30,13 +30,18 @@
 
 ---
 
-### 💜📊 GitHub Activity ✨
+### 🎧✨ Favorite Track
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-dwasngaauf-%23c77dff?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Public%20Repos-active-%23ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Code-Vibes%20Only-%239b5de5?style=for-the-badge"/>
+  <a href="[https://open.spotify.com/track/TRACK_ID](https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr?si=f1f9946e8a134fe5)">
+    <img src="https://img.shields.io/badge/🎶%20Currently%20Vibing-Lo--fi%20HipHop-%23c77dff?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <i>Click the badge to listen on Spotify 💜</i>
+</p>
+
 
 ---
 
