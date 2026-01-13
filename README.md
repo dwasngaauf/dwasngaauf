@@ -33,6 +33,11 @@
 
 ---
 
+### Contributions
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
 ### 🌸✨ Tech Stack
 
 <p align="center">
@@ -41,9 +46,6 @@
   <img src="https://img.shields.io/badge/Web-%23ffb3d9?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mobile-%23f72585?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
-
-### Contributions
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 <p align="center">
