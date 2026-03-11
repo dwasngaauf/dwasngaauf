@@ -21,7 +21,7 @@
 
 ### 💻✨ Quỳnh Dương
 
-- 💖 **Experience:** Web & Mobile App Development, Computer vision, IoT.
+- 💖 **Experience:** Web & Mobile App Development, IMU processing
 - 🌸 **Education:** Information Technology major at  
   **SOICT – Hanoi University of Science and Technology (HUST), Vietnam**  
 - 💬 **Languages:** English 🇬🇧 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
