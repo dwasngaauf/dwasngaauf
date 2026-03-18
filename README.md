@@ -37,16 +37,6 @@
 
 ---
 
-### 🌸✨ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/IoT-%23ff69b4?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AIoT-%23c77dff?style=for-the-badge&logo=brain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-%23ffb3d9?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile-%23f72585?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
----
-<p align="center">
-  ✨💖 Thanks for visiting my profile 💖✨  
+  ✨💖 aligator 💖✨  
 </p>
