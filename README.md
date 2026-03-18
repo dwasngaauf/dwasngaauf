@@ -1,9 +1,9 @@
 <h1 align="center">
-  💜 Hi there ✨ | Konnichiwa 🌸 | Xin chào 🤟  
+  💜 Yo ✨ | Ossu 🌸 | Lô 🤟  
 </h1>
 
 <p align="center">
-  <i>Skrrrt — 
+  <i>
     Hiphop neva dies 😎💿<br>
     Ít thì 5 quả trứng 🥚 nhiều thì một tên lửa 🚀
   </i>
