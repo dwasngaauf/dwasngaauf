@@ -4,7 +4,7 @@
 
 <p align="center">
   <i>
-    Hiphop neva dies 😎💿<br>
+    Cuộc sống nó giống cuộc sống mà cuộc đời nó cũng như cuộc đời 😎<br>
     Ít thì 5 quả trứng 🥚 nhiều thì một tên lửa 🚀
   </i>
 </p>
