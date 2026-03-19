@@ -28,7 +28,7 @@
 - 🎮 **Games:** I play several games, but my most-played one is  
   **The Sims 4 🏡💫**  
   > If you have a TS4 Discord server, feel free to invite meee 🥺👉👈  
-- ⚡Yêu người béo réo người gầy, yêu anh bokuto zú bự râu dê  
+- ⚡Yêu người béo réo người gầy 
 
 ---
 
