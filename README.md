@@ -18,8 +18,6 @@
 ---
 
 ### ✨Quynh Duong
-
----
 ###  Experience: I'm a noob 🤡
 ###  A student of Higher Education Development Support Project on ICT, hust '28
   <p align="center">
@@ -27,6 +25,7 @@
       Yêu người béo réo người gầy (●'◡'●)
     </i>
   </p>
+  
 ---
 
 ### Contributions
