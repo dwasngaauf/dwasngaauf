@@ -20,10 +20,10 @@
 
 ### ✨Quynh Duong
 
-- 💖 **Experience:** noob huhu
-- 🌸 **Education:** Higher Education Development Support Project on ICT (Hedspi)**  
-- 🎮 **Games:**The Sims 4**  
-- ⚡Yêu người béo réo người gầy 
+**Experience:** noob huhu
+**Education:** Higher Education Development Support Project on ICT (Hedspi)**  
+**Play **The Sims 4**  
+Yêu người béo réo người gầy 
 
 ---
 
