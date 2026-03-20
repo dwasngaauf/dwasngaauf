@@ -21,10 +21,10 @@
 
 ---
 ###  Experience: I'm a noob 🤡
-###  A student of Higher Education Development Support Project on ICT, HUST '28
+###  A student of Higher Education Development Support Project on ICT, hust '28
   <p align="center">
     <i>
-      Yêu người béo réo người gầy 
+      Yêu người béo réo người gầy (●'◡'●)
     </i>
   </p>
 ---
