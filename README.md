@@ -24,13 +24,11 @@
 - **Experience:** noob huhu
 - **A student of** Higher Education Development Support Project on ICT (Hedspi), Hust
 - **Play** The Sims 4
-
----
-
   <p align="center">
-    Yêu người béo réo người gầy 
+    <i>
+      Yêu người béo réo người gầy 
+    </i>
   </p>
-  
 ---
 
 ### Contributions
