@@ -1,11 +1,10 @@
 <h1 align="center">
-  💜 Yo ✨ | Ossu 🌸 | Lô 🤟  
+  Hê lô 🤟  
 </h1>
 
 <p align="center">
   <i>
     Cuộc sống nó giống cuộc sống mà cuộc đời nó cũng như cuộc đời 😎<br>
-    Ít thì 5 quả trứng 🥚 nhiều thì một tên lửa 🚀
   </i>
 </p>
 
@@ -25,9 +24,7 @@
 - 🌸 **Education:** Information Technology major at  
   **SOICT – Hanoi University of Science and Technology (HUST), Vietnam**  
 - 💬 **Languages:** English 🇬🇧 | Vietnamese 🇻🇳 | Japanese 🇯🇵  
-- 🎮 **Games:** I play several games, but my most-played one is  
-  **The Sims 4 🏡💫**  
-  > If you have a TS4 Discord server, feel free to invite meee 🥺👉👈  
+- 🎮 **Games:**The Sims 4**  
 - ⚡Yêu người béo réo người gầy 
 
 ---
