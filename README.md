@@ -25,8 +25,7 @@
 - **Play** The Sims 4**
   <p align="center">
     Yêu người béo réo người gầy 
-  </p>p>
-
+  </p>
 ---
 
 ### Contributions
