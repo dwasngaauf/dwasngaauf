@@ -21,7 +21,7 @@
 
 ---
 ###  Experience: I'm a noob 🤡
-###  A student of** Higher Education Development Support Project on ICT (Hedspi), Hust
+###  A student of Higher Education Development Support Project on ICT, HUST '28
   <p align="center">
     <i>
       Yêu người béo réo người gầy 
