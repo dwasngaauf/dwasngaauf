@@ -18,7 +18,7 @@
 
 ---
 
-### 💻✨ Quỳnh Dương
+### ✨Quynh Duong
 
 - 💖 **Experience:** noob huhu
 - 🌸 **Education:** Information Technology major at  
