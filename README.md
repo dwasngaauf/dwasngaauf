@@ -22,10 +22,14 @@
 ---
 
 - <h1 ">
-  Hê lô 🤟  
+  Experience: I'm a noob 🤡
 </h1>
-- **A student of** Higher Education Development Support Project on ICT (Hedspi), Hust
-- **Play** The Sims 4
+- <h1>
+  A student of** Higher Education Development Support Project on ICT (Hedspi), Hust
+</h1>
+- <h1>
+  **Play** The Sims 4
+</h1>
   <p align="center">
     <i>
       Yêu người béo réo người gầy 
