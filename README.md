@@ -4,7 +4,7 @@
 
 <p align="center">
   <i>
-    Cuộc sống nó giống cuộc sống mà cuộc đời nó cũng như cuộc đời 😎<br>
+    Cuộc sống nó giống cuộc sống mà cuộc đời nó cũng như cuộc đời <br>
   </i>
 </p>
 
@@ -17,8 +17,8 @@
 
 ---
 
-### ✨Quynh Duong
-###  Experience: I'm a noob 🤡
+### Quynh Duong
+###  Experience: I'm a noob 
 ###  A student of Higher Education Development Support Project on ICT, hust '28
   <p align="center">
     <i>
@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  ✨💖 aligator 💖✨  
+  canh thiu
 </p>
